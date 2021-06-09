@@ -1,0 +1,13 @@
+/Users/markzegelman/Projects/Lab3/Lab3/bin/Debug/Lab3.dll
+/Users/markzegelman/Projects/Lab3/Lab3/bin/Debug/Lab3.pdb
+/Users/markzegelman/Projects/Lab3/Lab3/bin/Debug/IIG.BinaryFlag.dll
+/Users/markzegelman/Projects/Lab3/Lab3/bin/Debug/nunit.framework.dll
+/Users/markzegelman/Projects/Lab3/Lab3/bin/Debug/nunit.framework.pdb
+/Users/markzegelman/Projects/Lab3/Lab3/bin/Debug/nunit.framework.xml
+/Users/markzegelman/Projects/Lab3/Lab3/bin/Debug/IIG.BinaryFlag.pdb
+/Users/markzegelman/Projects/Lab3/Lab3/bin/Debug/IIG.BinaryFlag.xml
+/Users/markzegelman/Projects/Lab3/Lab3/obj/Debug/Lab3.csprojAssemblyReference.cache
+/Users/markzegelman/Projects/Lab3/Lab3/obj/Debug/Lab3.csproj.CoreCompileInputs.cache
+/Users/markzegelman/Projects/Lab3/Lab3/obj/Debug/Lab3.csproj.CopyComplete
+/Users/markzegelman/Projects/Lab3/Lab3/obj/Debug/Lab3.dll
+/Users/markzegelman/Projects/Lab3/Lab3/obj/Debug/Lab3.pdb
